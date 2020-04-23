@@ -8,7 +8,7 @@ This sample project demonstrates the flexibility of iViewer platform which allow
 
 The module in this project contains minimal functions and remain as a working sample so it doesn't include other methods that you may find useful. Such as checking for a valid IP address input, sending HEX payload instead of ASCII or displaying the response through the feedback system.
 
-## Procedure
+## Usage
 - Upload the project to a mobile device.
 - Enter the IP address and port number of the remote device.
 - Once connected, the status will show either green (connected) or red (disconnected).
